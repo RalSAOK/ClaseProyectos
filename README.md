@@ -6,4 +6,5 @@ Repositorio para la clase de proyectos de la Universidad [Sergio Arboleda](https
 **Desarrollado por:** Raúl Saavedra Ariza
 
 ## Problemática plateada
-[**Tiempo Freelancer**](doc/tiempoFreelancer.md): Archivo donde se plantea la problemática.
+[**Tiempo Freelancer**](Doc/tiempoFreelancer.md): Archivo donde se plantea la problemática.
+
