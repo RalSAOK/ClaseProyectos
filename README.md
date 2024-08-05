@@ -4,3 +4,6 @@ Repositorio para la clase de proyectos de la Universidad [Sergio Arboleda](https
 **GRUPO:** Proyectos G42
 
 **Desarrollado por:** Raúl Saavedra Ariza
+
+## Problemática plateada
+[**Tiempo Freelancer**](doc/tiempoFreelancer.md): Archivo donde se plantea la problemática.
