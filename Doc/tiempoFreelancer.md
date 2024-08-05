@@ -1,2 +1,2 @@
 # Tiempo Freelancer
-Como trabajador freelancer, es importante saber cuanto cobrar por el tiempo empleado en los proyectos que desarrolle para sus clientes. He notado que se puede caer en cobrar menos o gastar mas tiempo del que se presupuestaba en cada proyecto.
+Como trabajador freelancer, es importante saber cuanto cobrar por el tiempo empleado en los proyectos que desarrolle para los clientes. He notado que se puede caer en cobrar menos o gastar mas tiempo del que se presupuestaba en cada proyecto y quedar mal en los tiempos de entrega y posiblemente cobrar menos de lo que puede valer el proyecto.
