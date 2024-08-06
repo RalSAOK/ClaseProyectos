@@ -1,2 +1,4 @@
 # Tiempo Freelancer
-Como trabajador freelancer, es importante saber cuanto cobrar por el tiempo empleado en los proyectos que desarrolle para los clientes. He notado que se puede caer en cobrar menos o gastar mas tiempo del que se presupuestaba en cada proyecto y quedar mal en los tiempos de entrega y posiblemente cobrar menos de lo que puede valer el proyecto.
+Como trabajador freelance, es fundamental tener en cuenta el valor del tiempo invertido en cada proyecto. He notado que se puede caer en cobrar menos o gastar mas tiempo del que se presupuesta a un proyecto e incumplir en los tiempos de entrega. Es importante equilibrar la calidad del trabajo con una gestión sólida del tiempo y los recursos para asegurarte de que cada proyecto sea rentable y exitoso.
+
+La aplicación consiste en realizar cálculos de tiempo y valores, donde el usuario tenga la posibilidad de llenar unos campos como cliente, nombre del proyecto, valor del proyecto, etc., y así hacer cálculos según datos suministrados.
