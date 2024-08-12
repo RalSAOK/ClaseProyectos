@@ -13,3 +13,5 @@ Repositorio para la clase de proyectos de la Universidad [Sergio Arboleda](https
 * [Ficha Historia de Usuario 2](Doc/historialDeUsuario-02.md)
 * [Ficha Historia de Usuario 3](Doc/historialDeUsuario-03.md)
 * [Ficha Historia de Usuario 4](Doc/historialDeUsuario-04.md)
+* [Ficha Historia de Usuario 5](Doc/historialDeUsuario-05.md)
+* [Ficha Historia de Usuario 6](Doc/historialDeUsuario-06.md)
